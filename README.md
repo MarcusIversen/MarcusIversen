@@ -1,4 +1,5 @@
 <h2>My github stats📊</h2>
+<h5>Note: Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h5>
 <table style="border: none;">
 <table>
     <tr>
